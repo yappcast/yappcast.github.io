@@ -1,0 +1,29 @@
+<section class="navbar navbar-minimal navbar-static-top" role="navigation">
+  <div class="container">
+    <header class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">{{ site.title }}</a>
+    </header>
+
+    <section class="navbar-collapse collapse">
+      <nav class="nav navbar-nav">
+        {% for thing in site.pages %}
+          <li>
+            <a href="{{ thing.url | replace: 'index.html', '' }}">{{ thing.title }}</a>
+          </li>
+        {% endfor %}
+      </nav>
+
+      <nav class="nav navbar-nav">
+        <li class="dropdown active">
+
+        </li>
+      </nav>
+    </section>
+  </div>
+</section>

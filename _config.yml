@@ -1,0 +1,19 @@
+# Site settings
+title: "YAPP"
+description: "Yet Another Programmer Podcast"
+social:
+  twitter: "http://twitter.com/yappaudio"
+  github: "http://github.com/yappcast"
+  facebook: "http://facebook.com/{{}}"
+  gplus: "https://plus.google.com/+{{}}"
+  email: "support@yapp.audio"
+  itunes: "https://itunes.apple.com/us/podcast/yet-another-programming-podcast/id943456585"
+
+# Build settings
+markdown: redcarpet
+permalink: /:title/
+exclude:
+  - Gemfile
+  - LICENSE
+  - README.md
+  - CNAME

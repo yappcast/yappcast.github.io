@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="article">
+  <header class="banner">
+    <h1 class="title">
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </h1>
+
+    <h2 class="meta">
+      <small>{{ page.author }} - {{ page.date | date: "%Y/%m/%d" }}</small>
+    </h2>
+  </header>
+
+  {{ content }}
+</article>
