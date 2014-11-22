@@ -8,6 +8,7 @@ social:
   gplus: "https://plus.google.com/+{{}}"
   email: "support@yapp.audio"
   itunes: "https://itunes.apple.com/us/podcast/yet-another-programming-podcast/id943456585"
+  rss: "https://media.signalleaf.com/Yet-Another-Programming-Podcast/rss"
 
 # Build settings
 markdown: redcarpet
