@@ -3,5 +3,5 @@ layout: cast
 title: "LispCast"
 date: 2014-11-20
 author: "Eric Holder, Kurtis Rainbolt-Greene, &amp; Bryan Joseph"
-audio: "https://s3.amazonaws.com/yappcast-casts/episode1.mp3"
+audio: "http://media.signalleaf.com/Yet-Another-Programming-Podcast/5450326c5ed6bb02004affa8/rss/episode1.mp3"
 ---
