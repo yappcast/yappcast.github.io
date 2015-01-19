@@ -9,6 +9,7 @@ social:
   email: "support@yapp.audio"
   itunes: "https://itunes.apple.com/us/podcast/yet-another-programming-podcast/id943456585"
   rss: "https://media.signalleaf.com/Yet-Another-Programming-Podcast/rss"
+  stitcher: "http://www.stitcher.com/s?fid=59387&refid=stpr"
 
 # Build settings
 markdown: redcarpet
