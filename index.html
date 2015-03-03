@@ -1,16 +1,30 @@
 ---
 layout: "page"
 ---
+<header class="page-header">
+  <h1 class="text-center">
+    Yet Another Programming Podcast
+  </h1>
+</header>
 {% for post in site.posts %}
-  <article>
-    <header>
+  <section class="post panel panel-primary">
+    <header class="panel-heading">
       <h2>
-        <a href="{{ post.url }}">{{post.title}}</a>
+        {{post.title}}</a>
+        <small>{{ post.date | date: "%Y/%m/%d" }} - {{ post.time }}</small>
       </h2>
-      <span>{{post.date | date: "%B %d %Y" }}</span>
     </header>
-    <section>
-      <p>{{ post.excerpt }}<p>
-    </section>
-  </article>
+    <p class="panel-body">
+      {{ post.excerpt }} <a href="{{ post.url }}">Listen and read the bookmarks!</a>
+    <p>
+
+    <ul class="text-center list-inline members">
+      {% for member in post.members %}
+        <li class="well well-sm">
+          <img class="img-circle" src="/{{ member | slugify }}.jpg" width="24px">
+          {{ member }}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
 {% endfor %}
