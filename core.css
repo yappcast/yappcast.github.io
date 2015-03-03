@@ -6,6 +6,13 @@ p, li {
   font-size: 18px;
 }
 
+.player {
+  width: 720px;
+  height: 180px;
+  border: 0;
+  overflow: hidden;
+}
+
 .article .title {
   text-transform: capitalize;
 }
