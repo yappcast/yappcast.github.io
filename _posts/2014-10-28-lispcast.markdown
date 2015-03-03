@@ -1,11 +1,19 @@
 ---
 layout: cast
 title: "LispCast"
+excerpt: "In our pilot episode we talk to Eric Normand of LispCast"
 date: 2014-10-28
 author: "Eric Normand, Kurtis Rainbolt-Greene, &amp; Bryan Joseph"
-audio: '<iframe scrolling="no" frameborder="0" style="width:720px;height:180px;border:0;overflow:hidden;" width="720" height="180" src="http://app.stitcher.com/splayer/f/59387/36668969?el=0&refid=stpr"></iframe>'
+members:
+  - "Eric Normand"
+  - "Kurtis Rainbolt-Greene"
+  - "Bryan Joseph"
+audio: "http://app.stitcher.com/splayer/f/59387/36668969?el=0&refid=stpr"
+time: 0m:0s
 ---
 
-<p>
-  In our pilot episode we talk to Eric Normand of <a href="http://www.lispcast.com/" xml:base="https://media.signalleaf.com/Yet-Another-Programming-Podcast/rss">Lispcast</a>. He tells us about how it all started, why he likes Clojure, and his plans for Lispcast in the future.
-</p>
+In our pilot episode we talk to Eric Normand of [LispCast](http://www.lispcast.com/). He tells us about how it all started, why he likes [Clojure](http://clojure.org/), and his plans for LispCast in the future.
+
+  - LispCast's Bookmarks
+  - Kurtis's Bookmarks
+  - Bryan's Bookmarks

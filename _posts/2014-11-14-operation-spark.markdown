@@ -1,11 +1,20 @@
 ---
 layout: cast
 title: "Operation Spark"
+excerpt: "John Fraboni and Max Gaudin join us for this episode to talk about Operation Spark"
 date: 2014-11-14
-author: "John Fraboni, Max Gaudin, Kurtis Rainbolt-Greene, &amp; Bryan Joseph"
-audio: '<iframe scrolling="no" frameborder="0" style="width:720px;height:180px;border:0;overflow:hidden;" width="720" height="180" src="http://app.stitcher.com/splayer/f/59387/36668831?el=0&refid=stpr"></iframe>'
+members:
+  - "John Fraboni"
+  - "Max Gaudin"
+  - "Kurtis Rainbolt-Greene"
+  - "Bryan Joseph"
+audio: "http://app.stitcher.com/splayer/f/59387/36668831?el=0&refid=stpr"
+time: 0m:0s
 ---
 
-<p>
-  John Fraboni and Max Gaudin join us for this episode to talk about <a href="http://operationspark.org/" xml:base="https://media.signalleaf.com/Yet-Another-Programming-Podcast/rss">Operation Spark</a>
-</p>
+John Fraboni and Max Gaudin join us for this episode to talk about [Operation Spark](http://operationspark.org/).
+
+  - John's Bookmarks
+  - Max's Bookmarks
+  - Kurtis's Bookmarks
+  - Bryan's Bookmarks
