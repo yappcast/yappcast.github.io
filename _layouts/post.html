@@ -7,9 +7,18 @@ layout: default
       <a href="{{ page.url }}">{{ page.title }}</a>
     </h1>
 
-    <h2 class="meta">
-      <small>{{ page.author }} - {{ page.date | date: "%Y/%m/%d" }}</small>
-    </h2>
+    <ul class="list-inline members text-muted">
+      {% for member in page.members %}
+        <li>
+          <img class="img-circle" src="/{{ member | slugify }}.jpg" width="24px">
+          {{ member }}
+        </li>
+      {% endfor %}
+      <li>
+      <li>
+        {{ page.date | date: "%Y/%m/%d" }}
+      </li>
+    </ul>
   </header>
 
   {{ content }}
