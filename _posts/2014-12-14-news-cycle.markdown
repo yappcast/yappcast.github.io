@@ -1,11 +1,16 @@
 ---
 layout: cast
 title: "News Cycle"
+excerpt: "The crew talks about the latest in programming news."
 date: 2014-12-14
-author: "Kurtis Rainbolt-Greene, & Bryan Joseph"
-audio: '<iframe scrolling="no" frameborder="0" style="width:720px;height:180px;border:0;overflow:hidden;" width="720" height="180" src="http://app.stitcher.com/splayer/f/59387/36668593?el=0&refid=stpr"></iframe>'
+members:
+  - "Kurtis Rainbolt-Greene"
+  - "Bryan Joseph"
+audio: "http://app.stitcher.com/splayer/f/59387/36668593?el=0&refid=stpr"
+time: 42m:31s
 ---
 
-<p>
-In this episode, Kurtis and I talk about some recent programming news items. We have a discussion about package management (mainly discussing how <a href="https://golang.org/">Go</a> handles packages, <a href="http://elixir-lang.org/">Elixir's</a> package management system, <a href="http://hex.pm">Hex</a>, and <a href="https://rubygems.org/">RubyGems</a>), <a href="https://www.ruby-lang.org/en/news/2014/11/28/ruby-2-2-0-preview2-released/">Ruby 2.2</a>, the possibility of having <a href="https://bugs.ruby-lang.org/issues/9999">soft typing in Ruby 3.0</a>, <a href="http://www.ember-cli.com/">Ember CLI</a>, <a href="http://flowtype.org/">Flow</a>, and future podcasts episodes.
-</p>
+In this episode, Kurtis and I talk about some recent programming news items. We have a discussion about package management (mainly discussing how [Go](https://golang.org/) handles packages, [Elixir](http://elixir-lang.org/)'s package management system, [Hex](http://hex.pm), and [RubyGems](https://rubygems.org/)), [Ruby](https://www.ruby-lang.org/en/news/2014/11/28/ruby-2-2-0-preview2-released/) 2.2, the possibility of having [soft typing in Ruby 3.0](https://bugs.ruby-lang.org/issues/9999), [Ember CLI](http://www.ember-cli.com/), [Flow](http://flowtype.org/), and future podcasts episodes.
+
+  - Kurtis's Bookmarks
+  - Bryan's Bookmarks
