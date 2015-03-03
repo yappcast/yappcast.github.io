@@ -9,7 +9,7 @@ members:
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
 audio: "http://app.stitcher.com/splayer/f/59387/36668669?el=0&refid=stpr"
-time: 0m:0s
+time: 52m:28s
 ---
 
 George Mauer and Rob Schley join us to talk about the tech interview process from the interviewer's perspective and we all talk about and share stories about our interview experiences.

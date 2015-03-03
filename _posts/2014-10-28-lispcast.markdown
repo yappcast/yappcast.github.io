@@ -3,13 +3,12 @@ layout: cast
 title: "LispCast"
 excerpt: "In our pilot episode we talk to Eric Normand of LispCast"
 date: 2014-10-28
-author: "Eric Normand, Kurtis Rainbolt-Greene, &amp; Bryan Joseph"
 members:
   - "Eric Normand"
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
 audio: "http://app.stitcher.com/splayer/f/59387/36668969?el=0&refid=stpr"
-time: 0m:0s
+time: 49m:43s
 ---
 
 In our pilot episode we talk to Eric Normand of [LispCast](http://www.lispcast.com/). He tells us about how it all started, why he likes [Clojure](http://clojure.org/), and his plans for LispCast in the future.

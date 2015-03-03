@@ -1,9 +1,8 @@
 ---
 layout: cast
 title: "Open Source Hackathon"
-excerpt: "Bryan discusses his plans for the Open Source Hackathon this year. We also talk about Rust 1.0 Alpha, a little Elixir, and Atom"
+excerpt: "Bryan discusses his plans for the Open Source Hackathon this year. We also talk about Rust 1.0 Alpha, a little Elixir, and Atom."
 date: 2015-01-14
-author: "Kurtis Rainbolt-Greene, & Bryan Joseph"
 members:
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
