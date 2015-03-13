@@ -9,6 +9,9 @@ frontMatter: """
 layout: <layout>
 title: "<title>"
 excerpt: ""
+members:
+  - "Bryan Joseph"
+  - "Kurtis Rainbolt-Greene"
 date: <date>
 audio: ""
 time: 0m:0s
