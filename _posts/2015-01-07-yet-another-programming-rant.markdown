@@ -7,7 +7,7 @@ members:
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
   - "Ben Lavender"
-audio: "http://app.stitcher.com/splayer/f/59387/36668494?el=0&refid=stpr"
+audio: "http://app.stitcher.com/splayer/f/59387/36668494"
 time: 51m:45s
 ---
 

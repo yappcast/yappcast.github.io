@@ -6,7 +6,7 @@ date: 2015-01-14
 members:
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
-audio: "http://app.stitcher.com/splayer/f/59387/36668438?el=0&refid=stpr"
+audio: "http://app.stitcher.com/splayer/f/59387/36668438"
 time: 41m:07s
 ---
 

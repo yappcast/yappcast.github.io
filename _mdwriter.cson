@@ -1,0 +1,16 @@
+siteEngine: "jekyll"
+siteLocalDir: "/Users/krainboltgreene/code/yappcast/yappcast.github.io"
+siteDraftsDir: "_drafts/"
+sitePostsDir: "_posts/"
+siteImagesDir: "/"
+siteUrl: "http://yapp.audio/"
+frontMatter: """
+---
+layout: <layout>
+title: "<title>"
+excerpt: ""
+date: <date>
+audio: ""
+time: 0m:0s
+---
+"""

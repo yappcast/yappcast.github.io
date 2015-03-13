@@ -8,7 +8,7 @@ members:
   - "Rob Schley"
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
-audio: "http://app.stitcher.com/splayer/f/59387/36668669?el=0&refid=stpr"
+audio: "http://app.stitcher.com/splayer/f/59387/36668669"
 time: 52m:28s
 ---
 

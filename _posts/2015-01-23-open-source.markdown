@@ -7,7 +7,7 @@ members:
  - "George Mauer"
  - "Kurtis Rainbolt-Greene"
  - "Bryan Joseph"
-audio: "http://app.stitcher.com/splayer/f/59387/36735205?el=0&refid=stpr"
+audio: "http://app.stitcher.com/splayer/f/59387/36735205"
 time: 53m:49s
 ---
 

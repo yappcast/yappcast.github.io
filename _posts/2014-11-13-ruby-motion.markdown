@@ -7,7 +7,7 @@ members:
   - "Gant LaBorde"
   - "Kurtis Rainbolt-Greene"
   - "Bryan Joseph"
-audio: "http://app.stitcher.com/splayer/f/59387/36668922?el=0&refid=stpr"
+audio: "http://app.stitcher.com/splayer/f/59387/36668922"
 time: 38m:49s
 ---
 
