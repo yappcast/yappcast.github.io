@@ -2,6 +2,10 @@
 layout: post
 title: "Teen Tech Day"
 excerpt: "Mykia Smith from Teens For Tech is our guest for this episode to tell us about Teen Tech Day."
+members:
+  - "Mykia Smith"
+  - "Bryan Joseph"
+  - "Kurtis Rainbolt-Greene"
 date: 2015-03-12 06:00
 audio: "http://app.stitcher.com/splayer/f/59387/37189852"
 time: 41m:54s
