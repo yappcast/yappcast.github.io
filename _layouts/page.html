@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<section class="col-md-8 col-md-offset-2">
+<header id="header" class="container">
+  {% include header.html %}
+</header>
+
+<main id="content" class="container">
   {{ content }}
-</section>
+</main>
+
+<footer id="footer" class="container">
+  {% include footer.html %}
+</footer>

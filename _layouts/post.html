@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<article class="article col-md-8 col-md-offset-2">
+
+<header id="header" class="container">
+  {% include header.html %}
+</header>
+
+<article class="post col-md-8 col-md-offset-2">
   <header class="banner">
     <h1 class="title">
       <a href="{{ page.url }}">{{ page.title }}</a>
@@ -10,7 +15,7 @@ layout: default
     <ul class="list-inline members text-muted">
       {% for member in page.members %}
         <li>
-          <img class="img-circle" src="/{{ member | slugify }}.jpg" width="24px">
+          <img class="img-circle" src="/{{ member | slugify }}.jpeg" width="24px">
           {{ member }}
         </li>
       {% endfor %}
@@ -23,3 +28,7 @@ layout: default
 
   {{ content }}
 </article>
+
+<footer id="footer" class="container">
+  {% include footer.html %}
+</footer>
