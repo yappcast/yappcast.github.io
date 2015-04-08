@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cast
 title: "Software Business"
 excerpt: "Eric Normand graciously joins us again to talk about software businesses."
 date: 2015-03-12 05:52

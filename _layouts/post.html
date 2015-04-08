@@ -15,7 +15,7 @@ layout: default
     <ul class="list-inline members text-muted">
       {% for member in page.members %}
         <li>
-          <img class="img-circle" src="/{{ member | slugify }}.jpeg" width="24px">
+          <img class="img-circle" src="/{{ member | slugify }}.jpeg" width="24px" height="24px">
           {{ member }}
         </li>
       {% endfor %}

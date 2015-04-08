@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cast
 title: "Teen Tech Day"
 excerpt: "Mykia Smith from Teens For Tech is our guest for this episode to tell us about Teen Tech Day."
 members:

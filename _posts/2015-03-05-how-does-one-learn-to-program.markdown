@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cast
 title: "How does one learn to program?"
 excerpt: "The crew talks about learning to program."
 date: 2015-03-05 18:29

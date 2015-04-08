@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cast
 title: "GUIs, ORMs, JavaScript, Scaffolding"
 excerpt: "We discuss ReactJS Native's announcement, migrations, and javascript frameworks."
 date: 2015-03-03 17:45
