@@ -10,6 +10,7 @@ social:
   itunes: "https://itunes.apple.com/us/podcast/yet-another-programming-podcast/id943456585"
   rss: "https://media.signalleaf.com/Yet-Another-Programming-Podcast/rss"
   stitcher: "http://www.stitcher.com/s?fid=59387&refid=stpr"
+  plus: "https://plus.google.com/116034633996475431764"
 
 # Build settings
 markdown: redcarpet
